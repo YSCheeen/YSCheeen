@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YSCheeen
 - 👀 I’m currently learning Python.
-- 🌱 Try to bring this project to my friend, so as to free her from tiring office tasks with some automated tool.   
+- 🌱 Try to bring this project to my friend, so as to free her from some repetitive and tiring office tasks with an automated tool.   
 - 📫 How to reach me ...
 
 <!---
